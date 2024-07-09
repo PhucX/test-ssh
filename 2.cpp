@@ -23,7 +23,10 @@ int main()
 				oke = 0;
 			}
 		}
-        ///qwer/q/wer/q/wer/qwerqwerqwe
+        ///1232qwdas
+        
+        ads
+        er/q/wer/qwerqwerqwe
         ///qwer//q/we/r
         //qwerqwerqwe///
 	}
