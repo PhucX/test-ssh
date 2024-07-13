@@ -24,7 +24,7 @@ namespace bai1
                 }
             }
         }
-
+        //12312
         public void IsPrime()
         {
             Sieve();
