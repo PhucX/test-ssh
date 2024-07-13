@@ -8,7 +8,7 @@ namespace set2
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            //dcmoiqwkasdldajshsdn 328723
+            //dc7477 12
             Program basic = new Program();
             int[] XXX = Program.arr;
             basic.Sieve();
