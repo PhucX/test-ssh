@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace bai1
 {
     internal class Sieve
-    {
+    {//
         public static int[] arr = new int[1000];
         public void isprime()
         {
