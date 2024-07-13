@@ -12,7 +12,7 @@ namespace bai1
 {
     public class Program
     {
-        //
+        //dcm cuộc đời git
         static void Main(string[] args)
         {
             int a = int.Parse(Console.ReadLine());
